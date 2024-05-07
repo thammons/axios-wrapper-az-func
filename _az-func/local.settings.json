@@ -1,0 +1,25 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=false",
+
+    "cosmos_url": "https://127.0.0.1:8081",
+    "cosmos_key": "",
+    "cosmos_db": "",
+    "cosmos_container": "",
+    "cosmos_partition_key": "/data/type",
+
+    "azure_storage_connection_string": "",
+    "pdf_images_base_path": "",
+    "pdf_images_storage_container": "",
+
+    "jwt_token_key": "",
+    "NODE_ENV": "development"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*",
+    "CORSCredentials": false
+  }
+}
