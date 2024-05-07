@@ -1,0 +1,19 @@
+[
+    {
+      "data": {
+        "type": "client",
+        "createdBy": "testuserdata"
+      },
+      "id": "b1cee533-7904-47af-9b4b-14701c3808eb",
+      "name": "testClient1"
+    },
+    {
+      "data": {
+        "type": "client",
+        "createdBy": "testuserdata"
+      },
+      "id": "c1cee533-7904-47af-9b4b-14701c3808eb",
+      "name": "testClient2"
+    }
+  ]
+  

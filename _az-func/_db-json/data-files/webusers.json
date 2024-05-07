@@ -1,0 +1,45 @@
+[
+  {
+    "data": {
+      "type": "webuser",
+      "createdBy": "testuserdata"
+    },
+    "id": "b1aee533-7904-47af-9b4b-14701c3808eb",
+    "name": "testuser1",
+    "username": "TESTUSER1",
+    "password": "",
+    "salt": "",
+    "roleType": "admin",
+    "lastLogin": "",
+    "attempts": 0,
+    "isApproved": true,
+    "isLocked": false,
+    "lastPasswordChangeDate": "",
+    "client": {
+      "id": "b1cee533-7904-47af-9b4b-14701c3808eb",
+      "name": "testClient1"
+    }
+  },
+  {
+    "data": {
+      "type": "webuser",
+      "createdBy": "testuserdata"
+    },
+    "id": "c1bee533-7904-47af-9b4b-14701c3808eb",
+    "name": "testuser2",
+    "email": "testuser2@email.com",
+    "username": "TESTUSER2",
+    "password": "",
+    "salt": "",
+    "roleType": "user",
+    "lastLogin": "",
+    "attempts": 0,
+    "isApproved": true,
+    "isLocked": false,
+    "lastPasswordChangeDate": "",
+    "client": {
+      "id": "b1cee533-7904-47af-9b4b-14701c3808eb",
+      "name": "testClient1"
+    }
+  }
+]
